@@ -10,6 +10,9 @@ Altair slc running ubuntu linux from windows using ms wsl
     It effectively solves the "Linux-first" problem that has historically plagued
     Windows-based  developers and data scientists. Much better that dual boot.
     Especially useful for larger linux enviroment applicatons, not to mention r and python.
+
+    Too long to post to a list, see github
+    https://github.com/rogerjdeangelis/altair-slc-running-ubuntu-linux-from-windows-using-ms-wsl
                  _               _
       ___  _   _| |_ _ __  _   _| |_
      / _ \| | | | __| `_ \| | | | __|
